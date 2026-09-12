@@ -1,0 +1,14 @@
+{
+  "name": "Floristería Díaz — Administración",
+  "short_name": "Administración",
+  "description": "Panel de administración de Floristería Díaz",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6f263d",
+  "icons": [
+    {"src":"./icon-admin-192-v2.png?v=20260912","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-admin-512-v2.png?v=20260912","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
